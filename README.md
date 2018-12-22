@@ -1,5 +1,5 @@
 # Sample-Projects-Harvard-Advanced-ML-AI-Coursework
-These are some of my open ended ML/AI projects from [Harvard Advanced ML/AI (CSCI E-82)](https://www.extension.harvard.edu/course-catalog/courses-by-certificate/Data-Science-Certificate/advanced-machine-learning-data-mining-and-artificial-intelligence/15407) graduate coursework , Fall 2018
+These are some of my open ended projects from Harvard Advanced ML/AI graduate coursework , Fall 2018
 
 
 ## Text Mining- Discover Top Trends from NIPS Conference Papers
